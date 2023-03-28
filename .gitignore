@@ -1,3 +1,7 @@
 node_modules
 
-assets
+src/assets
+
+.parcel-cache
+
+dist
